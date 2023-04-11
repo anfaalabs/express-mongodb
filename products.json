@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "123123123123",
+      "name": "Dummy Product 1",
+      "price": 4,
+      "categories": ["dummy", "product"]
+    },
+    {
+      "id": "123123123124",
+      "name": "Dummy Product 2",
+      "price": 2,
+      "categories": ["dummy", "product"]
+    },
+    {
+      "id": "123123123125",
+      "name": "Dummy Product 3",
+      "price": 5,
+      "categories": ["dummy", "product"]
+    }
+  ]
+}
